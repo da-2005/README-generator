@@ -1,11 +1,11 @@
 # test
 ## Table Of Contents
-### [Installation](##Instllation) 
+### [Installation](##Installation) 
 * Usage
 * License
 * Contribution
 * Tests
-* [Questions](#Questions)
+* [Questions](##Questions)
 ## Installation
 Hello
 Hello
@@ -32,5 +32,5 @@ hello
 ## Hello
 ## Hello
 ## Hello
-## Questions <a src="Questions"></a>
+## Questions
 Hello
