@@ -17,7 +17,7 @@ inquirer
         },
         {
             type: 'input',
-            name: 'project',
+            name: 'title',
             message: "What is your project's name?"        
         },
         {
@@ -46,7 +46,7 @@ inquirer
         },
         {
             type: 'input',
-            name: 'tests',
+            name: 'test',
             message: 'What command should be run to run tests?'
         }, 
         {
@@ -56,7 +56,7 @@ inquirer
         },
         {
             type: 'input',
-            name:'contribution',
+            name:'people',
             message: 'Who contributed to the application?'
         }   
     ])
@@ -64,6 +64,6 @@ inquirer
         console.log(data);
         const generateReadMe = generateMarkdown(data);
         fs.writeFile('README.md', generateReadMe, (err) =>
-            err ? console.log(err) : console.log('Successfully created ReadMe.md')
+            err ? console.log(err) : console.log('Successfully created READMe.md')
         );
     });
