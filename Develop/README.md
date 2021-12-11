@@ -1,6 +1,10 @@
-# Project
+# Project 
+
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+
   ## Description
   Description
+  
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -8,20 +12,32 @@
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
+  
   ## Installation
-  To install the necessary dependencies, run the following command:<br />
+  To install the necessary dependencies, run the following command:
+  <br />
   * npm i
+  
   ## Usage
-  https://user-images.githubusercontent.com/90587395/145667449-4755c40e-8c30-40bd-a822-ff2c0f5111c5.mp4
+  https://user-images.githubusercontent.com/90587395/145668207-20b8f4a5-c543-4317-9ecc-bf5374e27dc7.mp4
+  
   ## License
-  This project is licensed under the Apache License 2.0
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+  <br />
+  This application is covered by the Apache license.
+  
   ## Contributing
-  This app was worked upon by:<br />
-  contribution
+  <br />
+  * Derrick
+  
   ## Tests
-  npm test
+  To run tests on this app, run the following command:
+  <br />
+  * npm test
+  
   ## Questions
-  For questions regarding the app, please contact me here:<br />
-  alvarezderrick0@gmail.com
-
+  For questions regarding the app, please contact me here:
+  <br />
+  * Email: alvarezderrick0@gmail.com
+  * GitHub: da-2005
   
