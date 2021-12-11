@@ -2,7 +2,7 @@
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `#${data.project}
 
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
 
@@ -35,6 +35,7 @@ function generateMarkdown(data) {
   
   ## Tests
   To run tests on this app, run the following command:
+  <br />
   * ${data.test}
   
   ## Questions
