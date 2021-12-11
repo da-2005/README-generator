@@ -46,7 +46,7 @@ inquirer
         },
         {
             type: 'input',
-            name: 'runtests',
+            name: 'tests',
             message: 'What command should be run to run tests?'
         }, 
         {
