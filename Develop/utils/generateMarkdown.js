@@ -31,7 +31,6 @@ function generateMarkdown(data) {
   This application is covered by the ${data.license} license.
   
   ## Contributing
-  <br />
   * ${data.contribution}
   
   ## Tests
