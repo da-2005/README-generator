@@ -1,4 +1,4 @@
-# Project 
+# Project
 
   ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
 
@@ -28,7 +28,7 @@
   
   ## Contributing
   <br />
-  * Derrick
+  * Derrick Alvarez
   
   ## Tests
   To run tests on this app, run the following command:
