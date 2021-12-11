@@ -1,6 +1,6 @@
-# project
+# Project
   ## Description
-  description
+  Description
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -9,16 +9,19 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Installation
-  npm i
+  To install the necessary dependencies, run the following command:<br />
+  * npm i
   ## Usage
-  instructions
+  https://user-images.githubusercontent.com/90587395/145667449-4755c40e-8c30-40bd-a822-ff2c0f5111c5.mp4
   ## License
-  Apache License 2.0
+  This project is licensed under the Apache License 2.0
   ## Contributing
+  This app was worked upon by:<br />
   contribution
   ## Tests
   npm test
   ## Questions
-  alvarez0@gmail.com
+  For questions regarding the app, please contact me here:<br />
+  alvarezderrick0@gmail.com
 
   
