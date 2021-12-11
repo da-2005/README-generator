@@ -36,7 +36,6 @@ function generateMarkdown(data) {
   
   ## Tests
   To run tests on this app, run the following command:
-  <br />
   * ${data.test}
   
   ## Questions
