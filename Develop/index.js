@@ -46,13 +46,13 @@ inquirer
         },
         {
             type: 'input',
-            name: 'test',
-            message: 'What command should be run to run tests?'
+            name: 'deployedLink',
+            message: 'Paste the link to your application here.'
         }, 
         {
             type: 'input',
             name: 'use',
-            message: 'What does the user need to know about using the repo?'
+            message: 'Paste your demo link here.'
         },
         {
             type: 'input',
