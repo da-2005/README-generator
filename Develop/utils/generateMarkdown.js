@@ -14,13 +14,15 @@ function generateMarkdown(data) {
   * [Usage](#Usage)
   * [License](#License)
   * [Contributing](#Contributing)
-  * [Tests](#Tests)
+  * [Deployment Link](#Deployment-Link)
   * [Questions](#Questions)
   
   ## Installation
-  To install the necessary dependencies, run the following command:
+  To install the necessary dependencies, run the following command in README-generator/Develop:
   <br />
+  \*\*\*
   * ${data.idepend}
+  \*\*\*
   
   ## Usage
   ${data.use}
@@ -33,8 +35,8 @@ function generateMarkdown(data) {
   ## Contributing
   * ${data.people}
   
-  ## Tests
-  To run tests on this app, run the following command:
+  ## Deployment Link
+  Here is the link to the deployed application:
   <br />
   * ${data.test}
   
