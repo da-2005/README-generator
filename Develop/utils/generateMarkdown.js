@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   To install the necessary dependencies, run the following command in README-generator/Develop:
   <br />
   \*\*\*
-  * ${data.idepend}
+  ${data.idepend}
   \*\*\*
   
   ## Usage
